@@ -1,0 +1,2 @@
+# go
+Go Lang Structure
