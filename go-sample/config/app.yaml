@@ -1,0 +1,8 @@
+#Application Http Port
+port: 8085
+
+#Application debug mode
+debug: true
+
+#Application timezone
+timezone: "Asia/Colombo"

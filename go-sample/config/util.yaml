@@ -1,0 +1,4 @@
+backend_expiry_time: 300000000 # expiry time in micro seconds
+num_of_threads: 5 #num of threads to run the process
+expiry_timeout: 300 #expiry timeout in secoonds
+clean_interval: 10000 # time interval in milli seconds

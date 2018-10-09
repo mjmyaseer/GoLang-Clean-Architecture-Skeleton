@@ -1,0 +1,20 @@
+
+read:
+  host: "localhost" #"10.240.0.17"
+  port: "3306"
+  database: "food_delivery_sequence" #"pickme"
+  user: "root"
+  password: ""
+  max_idle_connections: 50
+  max_open_connections: 100
+
+write:
+  host: "localhost" #"10.240.0.17"
+  port: "3306"
+  database: "food_delivery_sequence" #"pickme"
+  user: "root"
+  password: ""
+  max_idle_connections: 50
+  max_open_connections: 10
+
+timezone: "Asia/Colombo"
